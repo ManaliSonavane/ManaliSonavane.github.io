@@ -9,7 +9,7 @@ h1{
 p {
   background-color: #bfbfbf;
   border: 2px solid black;
-  height: 155px;
+  height: 150px;
   margin-right: 10px;
   padding: 40px 10px 5px 10px;
   overflow: hidden;
@@ -27,7 +27,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 40px;
   width: 120px;
   padding: 10px;
   text-align: center;
@@ -41,7 +41,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 40px;
   width: 120px;
   padding: 10px;
   text-align: center;
@@ -54,7 +54,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 40px;
   width: 120px;
   padding: 10px;
   text-align: center;
